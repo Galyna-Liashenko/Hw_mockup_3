@@ -1,0 +1,28 @@
+.element {
+  width: 350px;
+  height: 220px;
+  padding: 15px 10px 20px 10px;
+  margin: 30px;
+  border: dashed red 2px;
+  background-color: green;
+}
+
+.text {
+  text-align: justify;
+  padding: 10px;
+}
+
+.img1 {
+  float: left;
+  margin: 0 10px 0px 0px;
+  width: 270px;
+}
+
+.img2 {
+  display: block;
+  float: right;
+  display: block;
+  margin: 10px 0px 0 15px;
+  width: 270px;
+}
+/*# sourceMappingURL=style.css.map */
